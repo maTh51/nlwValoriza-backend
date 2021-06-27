@@ -35,8 +35,6 @@ class CreateComplimentService {
             message
         })
 
-        console.log(compliment);
-
         await complimentsRepositories.save(compliment); 
 
         return compliment;

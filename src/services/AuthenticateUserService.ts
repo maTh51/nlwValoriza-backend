@@ -40,9 +40,7 @@ class AuthenticateUserService {
                 expiresIn: "1d"
             }
         );
-
-        console.log(token)
-
+        
         return token;
     }
 }
