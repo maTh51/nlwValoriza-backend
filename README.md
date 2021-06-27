@@ -1,5 +1,10 @@
 # nwlValoriza-backend
-This project was developed at the NLW/Together event, on the node.js trail
+This project was developed at the NLW/Together event, on the node.js trail. 
+
+To run the aplication, just run this command in the main directory:
+
+``` yarn dev ```
+
 
 
 ### Milha extra:
